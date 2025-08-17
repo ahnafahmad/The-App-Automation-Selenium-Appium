@@ -30,8 +30,7 @@ implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version:
 testImplementation group: 'org.testng', name: 'testng', version: '7.10.2'
 ```
 ```   
-// https://mvnrepository.com/artifact/io.appium/java-client
-    implementation group: 'io.appium', name: 'java-client', version: '9.3.0'
+implementation group: 'io.appium', name: 'java-client', version: '9.3.0'
 ```
 
 ## Project Run
